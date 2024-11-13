@@ -1,6 +1,9 @@
+html {
+  min-height: 100%;
+}
+
 body {
   background-repeat: no-repeat;
   background-position: center center;
   background-image: url(../images/ukegawa_otaki.gif);
-  min-height: 100%;
 }
