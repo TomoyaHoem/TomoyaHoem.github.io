@@ -1,3 +1,7 @@
+# DISABLED FILE
+# Only kept as a reference
+# Replaced by deploy.yaml with vite
+
 # Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
